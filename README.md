@@ -1,2 +1,2 @@
 # EduKit
-## Library for teaching Python for students
+## Library for teaching Python to students
