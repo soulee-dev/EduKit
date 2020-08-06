@@ -1,7 +1,9 @@
 # EduKit
+
 ## Library for teaching Python to students
 
------------------
+---
+
 [![PyPI Latest Release](https://img.shields.io/pypi/v/EduKit)](https://pypi.org/project/EduKit/)
 ![License](https://img.shields.io/github/license/lill74/EduKit)
 ![Last Commit](https://img.shields.io/github/last-commit/lill74/Edukit)

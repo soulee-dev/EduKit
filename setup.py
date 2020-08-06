@@ -1,15 +1,15 @@
 import setuptools
 
-with open("README.md", "r") as fh:
+with open("README.md", "r", encoding='UTF8') as fh:
     long_description = fh.read()
 
 setuptools.setup(
     name="EduKit", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Lee Soul",
     author_email="a010393223@gmail.com",
     description="Library for teaching Python to students",
-    long_description=open('README.md').read(),
+    long_description=open('README.md', encoding='UTF8').read(),
     long_description_content_type="text/markdown",
     url="https://github.com/lill74/EduKit",
     packages=setuptools.find_packages(),
