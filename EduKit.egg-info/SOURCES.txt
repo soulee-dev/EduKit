@@ -1,0 +1,6 @@
+README.md
+setup.py
+EduKit.egg-info/PKG-INFO
+EduKit.egg-info/SOURCES.txt
+EduKit.egg-info/dependency_links.txt
+EduKit.egg-info/top_level.txt

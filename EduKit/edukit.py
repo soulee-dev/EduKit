@@ -1,13 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 from konlpy.tag import Kkma
-from konlpy.utils import pprint
 from collections import Counter
 from matplotlib import pyplot as plt
 import platform
-import matplotlib as mpl
 from matplotlib import font_manager, rc
-import os
 import numpy as np
 
 plt.rcParams['axes.unicode_minus'] = False
