@@ -1,4 +1,4 @@
-from edukit import *
+from EduKit.edukit import *
 
 urls = ["http://www.holybible.or.kr/B_RHV/cgi/bibleftxt.php?VR=RHV&VL=1&CN=1&CV=99",
         "http://www.holybible.or.kr/B_RHV/cgi/bibleftxt.php?VR=0&CI=258&CV=99",

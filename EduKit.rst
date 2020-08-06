@@ -1,6 +1,6 @@
 EduKit
 ======================================
 
-.. automodule:: edukit
+.. automodule:: EduKit.edukit
     :members:
     :show-inheritance:

@@ -1,4 +1,4 @@
-from edukit import *
+from EduKit.edukit import *
 
 
 urls = getHeadlineNews(crawl_times=11)
