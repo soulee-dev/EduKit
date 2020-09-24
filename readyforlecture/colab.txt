@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/blackdew/tensorflow1/master/csv/lemonade.csv
+https://colab.research.google.com/github/blackdew/tensorflow1/blob/master/practice2-lemonade.ipynb
